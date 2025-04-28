@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Jordan-b1027",
+  "repo": "container-uz0nam",
+  "name": "Jordan-b1027",
+  "email": "rbrewerjcksn49@gmail.com",
+}
